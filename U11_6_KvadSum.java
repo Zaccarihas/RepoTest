@@ -3,6 +3,7 @@ public class U11_6_KvadSum {
 	
 	public static double sum(double[] tal)
 	{
+		// en kommentar
 		double summa=0;
 		for(int i=0;i<tal.length;i++)
 		{
